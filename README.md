@@ -1,0 +1,2 @@
+# [A.I. Shows Promise Assisting Physicians](https://www.nytimes.com/2019/02/11/health/artificial-intelligence-medical-diagnosis.html)
+The advancements in deep learning demonstrated by these neural networks efficiently diagnosing illnesses using huge databases of image and text data seem very promising in terms of speed and accuracty. While it may be a while before it is properly implemented in a field as impactful and slow moving as medicine, the same AI may prove to be very useful in other fields long before then.
